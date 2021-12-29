@@ -32,4 +32,7 @@ body{
     color: whitesmoke;
     margin-top: 5px;
 }
-
+.LinkButton:hover{
+    background-color: whitesmoke;
+    color: #0e0277;
+}
