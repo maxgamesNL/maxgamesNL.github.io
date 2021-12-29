@@ -13,5 +13,5 @@ setInterval(function(){
 
 function Start()
 {
-    document.getElementById("JsLoadChecker").innerHTML = "Welcome to my website!";
+    document.getElementById("JsLoadChecker").innerHTML = "PROFESIONAL DIPSHIT";
 }
