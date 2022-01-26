@@ -28,4 +28,12 @@ body{
     z-index: 9999;
     filter: blur(0px);
     color: whitesmoke;
+    text-align: center;
+}
+
+.LinkButton{
+    z-index: 9999;
+    filter: blur(0px);
+    color: whitesmoke;
+    text-align: center;
 }
