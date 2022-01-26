@@ -17,7 +17,7 @@ body{
 .blur{
     background-image: url("../img/LunarBwLobbyPic.png");
     background-size:cover;
-    filter: blur(0.5px) saturate(300%);;
+    filter: blur(3.2px) saturate(300%);;
 
     position: absolute;
     width: 100%;
